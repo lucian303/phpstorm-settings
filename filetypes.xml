@@ -1,0 +1,29 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".ejs" type="HTML" />
+      <mapping ext="lock" type="JSON" />
+      <mapping ext="cache" type="PHP" />
+      <mapping ext="dist" type="PHP" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".jekyll-metadata" type="PLAIN_TEXT" />
+      <mapping pattern="symfony" type="PLAIN_TEXT" />
+      <mapping pattern="agent" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="ai" type="PLAIN_TEXT" />
+      <mapping ext="htpasswd" type="PLAIN_TEXT" />
+      <mapping ext="repo" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="config" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

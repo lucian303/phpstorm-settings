@@ -1,0 +1,70 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="xml-api" type="awselasticbeanstalk">
+      <configuration access-key="AKIAI3LUOLYGKO47HNKA" region-url="elasticbeanstalk.us-west-1.amazonaws.com" secret-key="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">
+        <option name="solutionStacks">
+          <list>
+            <solutionStacks value="32bit Amazon Linux 2014.03 v1.0.3 running Python" />
+            <solutionStacks value="32bit Amazon Linux 2014.03 v1.0.3 running Python 2.7" />
+            <solutionStacks value="32bit Amazon Linux 2014.03 v1.1.0 running Node.js" />
+            <solutionStacks value="32bit Amazon Linux 2014.03 v1.1.0 running PHP 5.4" />
+            <solutionStacks value="32bit Amazon Linux 2014.03 v1.1.0 running PHP 5.5" />
+            <solutionStacks value="32bit Amazon Linux 2014.03 v1.1.0 running Python" />
+            <solutionStacks value="32bit Amazon Linux 2014.03 v1.1.0 running Python 2.7" />
+            <solutionStacks value="32bit Amazon Linux 2014.03 v1.1.0 running Ruby 1.9.3" />
+            <solutionStacks value="32bit Amazon Linux 2014.03 v1.1.0 running Tomcat 7 Java 6" />
+            <solutionStacks value="32bit Amazon Linux 2014.03 v1.1.0 running Tomcat 7 Java 7" />
+            <solutionStacks value="32bit Amazon Linux running PHP 5.3" />
+            <solutionStacks value="32bit Amazon Linux running Python" />
+            <solutionStacks value="32bit Amazon Linux running Tomcat 6" />
+            <solutionStacks value="32bit Amazon Linux running Tomcat 7" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.0.1 running Docker 1.0.0" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.0.3 running Python" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.0.3 running Python 2.7" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.0.4 running Python" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.0.4 running Python 2.7" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running Node.js" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running PHP 5.4" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running PHP 5.5" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running Python" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running Python 2.7" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running Ruby 1.9.3" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running Ruby 2.0 (Passenger Standalone)" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running Ruby 2.0 (Puma)" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running Ruby 2.1 (Passenger Standalone)" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running Ruby 2.1 (Puma)" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running Tomcat 7 Java 6" />
+            <solutionStacks value="64bit Amazon Linux 2014.03 v1.1.0 running Tomcat 7 Java 7" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Docker 1.6.2" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running PHP 5.4" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running PHP 5.5" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running PHP 5.6" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Python" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Python 2.7" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Python 3.4" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Ruby 1.9.3" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Ruby 2.0 (Passenger Standalone)" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Ruby 2.0 (Puma)" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Ruby 2.1 (Passenger Standalone)" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Ruby 2.1 (Puma)" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Ruby 2.2 (Passenger Standalone)" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.3 running Ruby 2.2 (Puma)" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.4 running Node.js" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.4 running Tomcat 7 Java 6" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.4 running Tomcat 7 Java 7" />
+            <solutionStacks value="64bit Amazon Linux 2015.03 v1.4.4 running Tomcat 8 Java 8" />
+            <solutionStacks value="64bit Amazon Linux running PHP 5.3" />
+            <solutionStacks value="64bit Amazon Linux running Python" />
+            <solutionStacks value="64bit Amazon Linux running Tomcat 6" />
+            <solutionStacks value="64bit Amazon Linux running Tomcat 7" />
+            <solutionStacks value="64bit Debian jessie v1.4.3 running GlassFish 4.0 Java 7 (Preconfigured - Docker)" />
+            <solutionStacks value="64bit Debian jessie v1.4.3 running GlassFish 4.1 Java 8 (Preconfigured - Docker)" />
+            <solutionStacks value="64bit Debian jessie v1.4.3 running Go 1.3 (Preconfigured - Docker)" />
+            <solutionStacks value="64bit Debian jessie v1.4.3 running Go 1.4 (Preconfigured - Docker)" />
+            <solutionStacks value="64bit Debian jessie v1.4.3 running Python 3.4 (Preconfigured - Docker)" />
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
