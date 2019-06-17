@@ -1,8 +1,15 @@
-<scheme name="Lucian2015" version="142" parent_scheme="Default">
+<scheme name="LucianLinux2019" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2019-06-17T15:59:06</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2019.1.2.0.0</property>
+    <property name="modified">2019-06-17T15:59:34</property>
+    <property name="originalScheme">Lucian2015 copy</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Courier 10 Pitch" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="ff" />
