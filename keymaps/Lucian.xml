@@ -11,6 +11,10 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.EditValue">
@@ -22,6 +26,7 @@
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
