@@ -4,13 +4,14 @@
     <property name="created">2019-06-17T15:59:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-20T00:38:54</property>
+    <property name="modified">2019-06-21T18:30:18</property>
     <property name="originalScheme">Lucian2015 copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="ff" />
