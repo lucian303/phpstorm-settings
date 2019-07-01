@@ -21,12 +21,14 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="ContextHelp" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -57,6 +59,10 @@
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="ctrl home" />
     <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
