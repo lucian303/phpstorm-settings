@@ -162,6 +162,7 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl f2" />
     <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark" />
