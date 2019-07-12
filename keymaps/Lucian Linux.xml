@@ -37,6 +37,9 @@
   </action>
   <action id="ContextHelp" />
   <action id="DatabaseView.CopyAction" />
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
