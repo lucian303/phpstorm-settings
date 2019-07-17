@@ -16,6 +16,10 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -146,6 +150,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="Runner.CloseView">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
