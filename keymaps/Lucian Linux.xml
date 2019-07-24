@@ -90,6 +90,9 @@
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
@@ -108,8 +111,8 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="GotoChangedFile" />
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="GotoCustomRegion">
@@ -137,6 +140,10 @@
   <action id="IntroduceParameter" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="PhpListenDebugAction">
