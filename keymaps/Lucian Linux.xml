@@ -115,10 +115,6 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
-  <action id="GotoCustomRegion">
-    <keyboard-shortcut first-keystroke="ctrl alt period" />
-    <keyboard-shortcut first-keystroke="ctrl u" />
-  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -160,6 +156,7 @@
   <action id="Runner.CloseView">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="SaveAll" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
@@ -173,6 +170,9 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
@@ -196,6 +196,9 @@
     <keyboard-shortcut first-keystroke="ctrl f8" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push">
