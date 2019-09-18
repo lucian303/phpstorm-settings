@@ -1,17 +1,17 @@
 <scheme name="LucianLinux2019" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.5" />
   <metaInfo>
     <property name="created">2019-06-17T15:59:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-20T00:38:54</property>
+    <property name="modified">2019-09-18T14:16:01</property>
     <property name="originalScheme">Lucian2015 copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="27" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_SIZE" value="24" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="ff" />
     <option name="CARET_COLOR" value="ffffff" />
@@ -352,7 +352,7 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ff4f00" />
+        <option name="FOREGROUND" value="f8ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -388,6 +388,12 @@
       <value>
         <option name="FOREGROUND" value="929292" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ff6000" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
