@@ -71,6 +71,8 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="EditorScrollDown" />
@@ -140,10 +142,18 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
