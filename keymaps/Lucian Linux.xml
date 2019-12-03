@@ -31,6 +31,10 @@
     <keyboard-shortcut first-keystroke="ctrl meta w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Oracle.DbmsOutput">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.DeleteRows">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -201,10 +205,11 @@
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
-  <action id="ToggleBookmark" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl f8" />
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
   <action id="UnsplitAll">
