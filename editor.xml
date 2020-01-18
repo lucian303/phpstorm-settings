@@ -4,8 +4,9 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Fira Code Medium" />
+    <option name="FONT_SIZE" value="23" />
+    <option name="FONT_FAMILY" value="JetBrains Mono" />
+    <option name="FONT_SCALE" value="1.25" />
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
