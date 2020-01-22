@@ -4,12 +4,12 @@
     <property name="created">2019-06-25T16:52:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-06-25T16:54:35</property>
+    <property name="modified">2020-01-21T23:37:48</property>
     <property name="originalScheme">LucianLinux2019 copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
@@ -30,33 +30,32 @@
     <option name="SELECTED_INDENT_GUIDE" value="990099" />
     <option name="SELECTION_BACKGROUND" value="ff00" />
     <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="e6e6e65a" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="0" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="e6e6e65a" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="0" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="0" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="0" />
+    <option name="ScrollBar.Mac.thumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Mac.trackColor" value="0" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
+    <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
+    <option name="ScrollBar.background" value="0" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="0" />
+    <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
+    <option name="ScrollBar.hoverTrackColor" value="0" />
+    <option name="ScrollBar.thumbBorderColor" value="0" />
+    <option name="ScrollBar.thumbColor" value="ffffffbe" />
+    <option name="ScrollBar.trackColor" value="0" />
     <option name="WHITESPACES" value="0" />
-
-    <option name="ScrollBar.background" value="000000"/>
-<option name="ScrollBar.trackColor" value="000000"/>
-<option name="ScrollBar.thumbColor" value="FFFFFFBE"/>
-<option name="ScrollBar.thumbBorderColor" value="000000"/>
-<option name="ScrollBar.hoverTrackColor" value="000000"/>
-<option name="ScrollBar.hoverThumbColor" value="FFFFFFBE"/>
-<option name="ScrollBar.hoverThumbBorderColor" value="000000"/>
-<option name="ScrollBar.Transparent.trackColor" value="E6E6E600"/>
-<option name="ScrollBar.Transparent.thumbColor" value="FFFFFFBE"/>
-<option name="ScrollBar.Transparent.thumbBorderColor" value="000000"/>
-<option name="ScrollBar.Transparent.hoverTrackColor" value="E6E6E65A"/>
-<option name="ScrollBar.Transparent.hoverThumbColor" value="FFFFFFBE"/>
-<option name="ScrollBar.Transparent.hoverThumbBorderColor" value="000000"/>
-<option name="ScrollBar.Mac.trackColor" value="000000"/>
-<option name="ScrollBar.Mac.thumbColor" value="FFFFFFBE"/>
-<option name="ScrollBar.Mac.thumbBorderColor" value="000000"/>
-<option name="ScrollBar.Mac.hoverTrackColor" value="000000"/>
-<option name="ScrollBar.Mac.hoverThumbColor" value="FFFFFFBE"/>
-<option name="ScrollBar.Mac.hoverThumbBorderColor" value="000000"/>
-<option name="ScrollBar.Mac.Transparent.trackColor" value="E6E6E65A"/>
-<option name="ScrollBar.Mac.Transparent.thumbColor" value="FFFFFFBE"/>
-<option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="000000"/>
-<option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="E6E6E65A"/>
-<option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="FFFFFFBE"/>
-<option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="000000"/>
   </colors>
   <attributes>
     <option name="ATTR_INTERNAL_CALL_ID">
