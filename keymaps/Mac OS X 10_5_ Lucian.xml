@@ -24,8 +24,10 @@
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
   <action id="Console.History.Next" />
   <action id="Console.History.Previous" />
+  <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.DeleteRows">
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
@@ -44,6 +46,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DomCollectionControl.Edit">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -77,6 +80,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
@@ -182,6 +186,10 @@
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="ShowErrorDescription" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
@@ -265,6 +273,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
     <keyboard-shortcut first-keystroke="meta alt page_up" />
   </action>
+  <action id="ViewSource" />
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="shift meta down" />
     <keyboard-shortcut first-keystroke="ctrl meta d" />
