@@ -41,6 +41,7 @@
     <keyboard-shortcut first-keystroke="shift meta down" />
     <keyboard-shortcut first-keystroke="ctrl meta d" />
   </action>
+  <action id="DatabaseView.PropertiesAction" />
   <action id="DatabaseView.ShowDiff" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta alt i" />
@@ -114,6 +115,10 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoRelated" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="IntroduceParameter" />
   <action id="Jdbc.OpenTableEditor">
@@ -160,7 +165,6 @@
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
-    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
