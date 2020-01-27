@@ -206,6 +206,7 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
