@@ -80,6 +80,8 @@
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
@@ -146,6 +148,8 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="meta page_down" />
   </action>
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl o" />
@@ -162,6 +166,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta page_up" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
