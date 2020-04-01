@@ -110,6 +110,11 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoRelated" />
+  <action id="GotoSuperMethod" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="IntroduceParameter" />
   <action id="Jdbc.OpenTableEditor">
