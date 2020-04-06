@@ -48,6 +48,7 @@
   </action>
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="meta alt w" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
